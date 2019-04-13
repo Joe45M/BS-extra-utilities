@@ -1,6 +1,8 @@
 # BS-extra-utilities
 A project which endeavours to provide extra bootstrap-compatible utilities and components. 
 
+## Project status
+Currently in the planning stage. If you would like to be updated on changes and releases, please watch this repository. 
 ## Have a suggestion?
 Do you have a suggestion for a set of utility classes or further compatible components? If so, please create an [issue](https://github.com/Joe45M/BS-extra-utilities/issues), explaining the functionality of your suggestion. Please label your suggestion accordingly- `suggestion` & `utility` OR `component`.  
 
